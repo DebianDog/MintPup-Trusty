@@ -14,7 +14,5 @@ MintPup is small 32-bit Ubuntu/Mint based live CD shaped to look and act like Pu
 
 [Forum thread](http://murga-linux.com/puppy/viewtopic.php?t=100441)
 
-**Maintainers:** saintless
-
 ![Screenshot1](https://github.com/DebianDog/MintPup-Trusty/blob/master/Screenshots/screenshot01.jpg?raw=true)
 ![Screenshot2](https://github.com/DebianDog/MintPup-Trusty/blob/master/Screenshots/screenshot02.jpg?raw=true)
